@@ -1,5 +1,3 @@
-<img align="center" alt="Eduard" width="1000" src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.18169-9/18057877_1311099745632740_2878491261664970667_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=2be8e3&_nc_eui2=AeEaN67TYP_aGLEgpM0cnBDfOpDDreDhSGo6kMOt4OFIamsu89yDA4w-ucjYSIONQ5ONW09ZyLV_RZVOFpS707lf&_nc_ohc=gGPGKG4XtmkAX_eqZVC&_nc_ht=scontent.fmnl17-2.fna&oh=00_AfD17tZV1dJZDizoAZz81QHb7DgePoh5-FSC8K3-kUqQrw&oe=658DC284"/>
-
 <h1 align="center">Hi 👋, I'm Eduard Kenneth!</h1>
 <h3 align="center">A passionate Junior Front-End Developer from Philippines 🇵🇭</h3>
 
